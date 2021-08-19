@@ -1,42 +1,25 @@
-### Hi there, I'm Trevor Miller 👋
+### Hi there 👋, I'm Trevor Miller
+#### Aspiring Software Engineer | B.S./M.S in CS VT'22 
+My Projects:
 
-BitBadges
-CouchDB, Firebase, JavaScript, ReactJS •Fall 2020
+BitBadges - A feature for BitClout that allows users to issue non transferable NFTs to one another
 
-Contributed to a new, open-source project, BitClout, which is a decentralized social media platform that is built using its own custom blockchain
-Built a feature using React Native, IPFS, Express.js, and Firebase that allows any BitClout profile to send nontransferable NFTs (badges) to any other user. Badges can then be collected and displayed alongside your profile like military or boy scout badges
-Fantasy Sports Stock Market - Ethereum Version
-Solidity, Web3.js, ReactJS, ExpressJS, Firebase, Material UI •Fall 2020
+Fantasy Sports Stock Market - Web app game where users can buy and sell pro sports teams like stocks using an ERC-20 token
 
-Created a web app using Solidity, Web3.js, React.js, Express.js, and Material UI where users can buy and sell NFL teams like stocks with the objective of buying teams that will do well throughout the season.
-Utilizes Ethereum, ERC-20 tokens and NFTs for in game currency and authentication
-The back end involved storing the data on Rinkeby Test Network along with using OpenSea for the NFTs
-Fantasy Sports Stock Market
-ReactJS, ExpressJS, Firebase, Material UI •Fall 2020
+Developer Error Dashboard - Dashboard that tracks and visually displays student’s software errors on projects over time
 
-Created a web app using React.js, Firebase, Express.js, and Material UI where users can buy and sell NFL teams like stocks with the objective of buying teams that will do well throughout the season.
-Developer Error Dashboard
-JavaScript, HTML, Excel, Google Charts •Fall 2020
+Skills: JAVASCRIPT / PYTHON / SOLIDITY / JAVA / SQL
 
-For this undergraduate research project, I developed the infrastructure to track software errors by software developers and visually display the most common errors, as well as changes in error frequency and density over time.
-Developed with a Virginia Tech Computer Science professor who I reported to weekly in order to simulate a project in the workplace.
-Stock Pattern Analyzer
-Java, AutoIt, Excel, Apache POI •Summer 2020
+- 🔭 I’m currently working on BitBadges 
+- 🌱 I’m currently learning Solidity 
 
-Throughout summer of 2020, I fully developed a personal Java program that would aid me in my hobby of day trading by gathering the daily price action of a stock, analyzing it, and storing the results in a Microsoft Excel spreadsheet.
-This program finds different patterns in stock price, takes in user information, and gathers general stock information, and in the end, it would store it all in a spreadsheet that could be used as a visual aid for when I am trading.
 
-<!--
-**trevormil/trevormil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/trevormil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/trevor-miller-1110aa1b1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/trevormil23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](trevor-miller.web.app)  
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=trevormil&show_icons=true)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=trevormil)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=trevormil)  
+
+![Profile views](https://gpvc.arturio.dev/trevormil)  
