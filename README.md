@@ -15,8 +15,6 @@ Skills: JAVASCRIPT / PYTHON / SOLIDITY / JAVA / SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=trevormil&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=trevormil)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=trevormil)  
 
 ![Profile views](https://gpvc.arturio.dev/trevormil)  
