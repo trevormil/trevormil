@@ -2,7 +2,7 @@
 #### Software Engineer | B.S./M.S in CS VT'22 
 My Projects:
 
-**Master's Thesis** - A permissioned, blockchain framework using Hyperledger Fabric that allows universities and professors to host courses peer to peer with students and store student's grades on0chain, all while maintaining privacy.
+**Master's Thesis** - A permissioned, blockchain framework using Hyperledger Fabric that allows universities and professors to host courses peer to peer with students and store student's grades on-chain, all while maintaining privacy.
 
 **EducationDAO** - A decentralized course hosting platform aimed at decentralizing all aspects of higher education.
 
