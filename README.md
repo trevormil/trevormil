@@ -4,7 +4,7 @@ My Projects:
 
 EducationDAO - A decentralized course hosting platform aimed at decentralizing all aspects of higher education.
 
-Circle Game - An NFT social experiment game on risk, scarcity, and game theory.
+Circle Game - An NFT social experiment game based on risk, scarcity, and game theory. (https://circlegame.io)
 
 BitBadges - A feature for DeSo Protocol that allows users to issue non transferable NFT badges to one another
 
