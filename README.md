@@ -10,7 +10,7 @@ Circle Game - An NFT social experiment game based on risk, scarcity, and game th
 
 BitBadges - A feature for DeSo Protocol that allows users to issue non transferable NFT badges to one another
 
-Fantasy Sports Stock Market - Simulated web app game where users can buy and sell pro sports teams like stocks and earn points for their performances
+Fantasy Sports Stock Market - Simulated web app game where users can buy and sell pro sports teams like stocks and earn points for their performances (https://tm-market.web.app/)
 
 Developer Error Dashboard - Dashboard to analyze and display students' performance data on their coding projects. (https://error-dashboard-webcat.web.app/)
 
