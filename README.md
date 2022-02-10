@@ -12,7 +12,7 @@ BitBadges - A feature for DeSo Protocol that allows users to issue non transfera
 
 Fantasy Sports Stock Market - Simulated web app game where users can buy and sell pro sports teams like stocks and earn points for their performances
 
-Developer Error Dashboard - Dashboard that tracks and visually displays student’s software errors on projects over time (https://error-dashboard-webcat.web.app/)
+Developer Error Dashboard - Dashboard to analyze and display students' performance data on their coding projects. (https://error-dashboard-webcat.web.app/)
 
 Skills: JAVASCRIPT / PYTHON / SOLIDITY / JAVA / SQL
 
