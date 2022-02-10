@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Trevor Miller
-#### Aspiring Software Engineer | B.S./M.S in CS VT'22 
+#### Software Engineer | B.S./M.S in CS VT'22 
 My Projects:
 
 EducationDAO - A decentralized course hosting platform aimed at decentralizing all aspects of higher education.
