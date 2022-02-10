@@ -2,6 +2,8 @@
 #### Software Engineer | B.S./M.S in CS VT'22 
 My Projects:
 
+Master's Thesis - Building a framework to enable universities and professors to host courses and store grades peer to peer with blockchain technology.
+
 EducationDAO - A decentralized course hosting platform aimed at decentralizing all aspects of higher education.
 
 Circle Game - An NFT social experiment game based on risk, scarcity, and game theory. (https://circlegame.io)
@@ -14,7 +16,7 @@ Developer Error Dashboard - Dashboard that tracks and visually displays student�
 
 Skills: JAVASCRIPT / PYTHON / SOLIDITY / JAVA / SQL
 
-- 🔭 I’m currently working on Circle Game, EducationDAO, and BitBadges 
+- 🔭 I’m currently working on my Master's Thesis, Circle Game, EducationDAO, and BitBadges 
 - 🌱 I’m currently learning Solidity
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=trevormil&show_icons=true)  
