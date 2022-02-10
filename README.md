@@ -2,19 +2,19 @@
 #### Software Engineer | B.S./M.S in CS VT'22 
 My Projects:
 
-Master's Thesis - Building a framework to enable universities and professors to host courses and store grades peer to peer with blockchain technology.
+**Master's Thesis** - A permissioned, blockchain framework using Hyperledger Fabric that allows universities and professors to host courses peer to peer with students and store student's grades on0chain, all while maintaining privacy.
 
-EducationDAO - A decentralized course hosting platform aimed at decentralizing all aspects of higher education.
+**EducationDAO** - A decentralized course hosting platform aimed at decentralizing all aspects of higher education.
 
-Circle Game - An NFT social experiment game based on risk, scarcity, and game theory. (https://circlegame.io)
+**Circle Game** - An NFT social experiment game based on risk, scarcity, and game theory. (https://circlegame.io)
 
-BitBadges - A feature for DeSo Protocol that allows users to issue non transferable NFT badges to one another
+**BitBadges** - A feature for DeSo Protocol that allows users to issue non transferable NFT badges to one another
 
-Fantasy Sports Stock Market - Simulated web app game where users can buy and sell pro sports teams like stocks and earn points for their performances (https://tm-market.web.app/)
+**Fantasy Sports Stock Market** - Simulated web app game where users can buy and sell pro sports teams like stocks and earn points for their performances (https://tm-market.web.app/)
 
-Developer Error Dashboard - Dashboard to analyze and display students' performance data on their coding projects. (https://error-dashboard-webcat.web.app/)
+**Developer Error Dashboard** - Dashboard to analyze and display students' performance data on their coding projects. (https://error-dashboard-webcat.web.app/)
 
-Skills: JAVASCRIPT / PYTHON / SOLIDITY / JAVA / SQL
+Skills: JAVASCRIPT / PYTHON / SOLIDITY / JAVA / SQL / REACT / TYPESCRIPT
 
 - 🔭 I’m currently working on my Master's Thesis, Circle Game, EducationDAO, and BitBadges 
 - 🌱 I’m currently learning Solidity
