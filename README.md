@@ -2,15 +2,17 @@
 #### Software Engineer | B.S./M.S in CS VT'22 
 My Projects:
 
-**Master's Thesis** - A permissioned, blockchain framework using Hyperledger Fabric that allows universities and professors to host courses peer to peer with students and store student's grades on-chain, all while maintaining privacy.
+**Master's Thesis** - Researching a decentralized, private smart contract framework.
 
-**EducationDAO** - A decentralized course hosting platform aimed at decentralizing all aspects of higher education.
+**Decentralized University** - A decentralized course hosting platform aimed at decentralizing all aspects of higher education.
 
 **Circle Game** - An NFT social experiment game based on risk, scarcity, and game theory. (https://circlegame.io)
 
-**BitBadges** - A feature for DeSo Protocol that allows users to issue non transferable NFT badges to one another
+**BitBadges 1.0** - A feature for DeSo Protocol that allows users to issue non transferable NFT badges to one another
 
-**Fantasy Sports Stock Market** - Simulated web app game where users can buy and sell pro sports teams like stocks and earn points for their performances (https://tm-market.web.app/)
+**BitBadges 2.0** - A cross-chain L1 that allows users to issue NFT badges to one another.
+
+**March Madnes Market** - Simulated web app game where users can buy NCAA March Madness teams like stocks and earn points for their performances (https://marchmadnessmarket.com)
 
 **Developer Error Dashboard** - Dashboard to analyze and display students' performance data on their coding projects. (https://error-dashboard-webcat.web.app/)
 
