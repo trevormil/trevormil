@@ -2,7 +2,7 @@
 #### Software Engineer | B.S./M.S in CS VT'22 
 My Projects:
 
-**Master's Thesis** - Researching a decentralized, private smart contract framework.
+**Master's Thesis** - Researching a novel decentralized, private smart contract framework.
 
 **Decentralized University** - A decentralized course hosting platform aimed at decentralizing all aspects of higher education.
 
