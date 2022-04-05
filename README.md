@@ -10,7 +10,7 @@ My Projects:
 
 **BitBadges 1.0** - A feature for DeSo Protocol that allows users to issue non transferable NFT badges to one another
 
-**BitBadges 2.0** - A cross-chain L1 that allows users to issue NFT badges to one another.
+**BitBadges 2.0** - A cross-chain Layer-1 blockchain that allows users to issue NFT badges to one another.
 
 **March Madnes Market** - Simulated web app game where users can buy NCAA March Madness teams like stocks and earn points for their performances (https://marchmadnessmarket.com)
 
