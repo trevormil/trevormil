@@ -4,7 +4,7 @@ My Projects:
 
 **Master's Thesis** - Researching a novel decentralized, private smart contract framework.
 
-**Decentralized University** - A decentralized course hosting platform aimed at decentralizing all aspects of higher education.
+**Blockin** - A multi-chain sign-in standard for Web 3.0 that supports signing-in with on-chain assets (https://blockin.gitbook.io/blockin/).
 
 **Circle Game** - An NFT social experiment game based on risk, scarcity, and game theory. (https://circlegame.io)
 
