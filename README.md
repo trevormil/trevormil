@@ -16,6 +16,8 @@ My Projects:
 
 **Developer Error Dashboard** - Dashboard to analyze and display students' performance data on their coding projects. (https://error-dashboard-webcat.web.app/)
 
+**Stock Pattern Analyzer** - Stock analyzing tool that first downloads daily stock data from Fidelity Trader Pro with AutoIt, and then, a Java data analysis script is run and outputs the results into a spreadsheet.
+
 Skills: JAVASCRIPT / PYTHON / SOLIDITY / JAVA / SQL / REACT / TYPESCRIPT
 
 - 🔭 I’m currently working on my Master's Thesis, Circle Game, EducationDAO, and BitBadges 
