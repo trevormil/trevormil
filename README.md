@@ -2,7 +2,7 @@
 #### Software Engineer | B.S./M.S in CS VT'22 
 My Projects:
 
-**Master's Thesis** - Researching a novel decentralized, private smart contract framework.
+**Master's Thesis** - Researching supporting verifiable, private timestamps for smart contracts using Zero-Knowledge Proofs.
 
 **Blockin** - A multi-chain sign-in standard for Web 3.0 that supports signing-in with on-chain assets (https://blockin.gitbook.io/blockin/).
 
