@@ -8,7 +8,7 @@ My Projects:
 
 **Circle Game** - An NFT social experiment game based on risk, scarcity, and game theory. (https://circlegame.io)
 
-**BitBadges 1.0** - A feature for DeSo Protocol that allows users to issue non transferable NFT badges to one another
+**BitBadges 1.0** - A feature for DeSo Protocol that allows users to issue non transferable NFT badges to one another (250+ badges issued)
 
 **BitBadges 2.0** - A cross-chain Layer-1 blockchain that allows users to issue NFT badges to one another.
 
