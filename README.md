@@ -18,7 +18,7 @@ My Projects:
 
 **Stock Pattern Analyzer** - Stock analyzing tool that first downloads daily stock data from Fidelity Trader Pro with AutoIt and then runs a Java data analysis script which outputs all results into Excel.
 
-Skills: JAVASCRIPT / PYTHON / SOLIDITY / JAVA / SQL / REACT / TYPESCRIPT / GO / RUST / SUBSTRATE / CIRCOM / ZKSNARKS
+Skills: JAVASCRIPT / PYTHON / SOLIDITY / JAVA / SQL / REACT / TYPESCRIPT / GO / RUST / SUBSTRATE / CIRCOM / ZKSNARKS / COSMOS SDK
 
 - 🔭 I’m currently working on my Master's Thesis, Circle Game, EducationDAO, and BitBadges 
 - 🌱 I’m currently learning Solidity
