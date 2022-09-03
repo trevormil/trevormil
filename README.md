@@ -10,7 +10,8 @@ My Projects:
 **Master's Thesis** - Researching supporting verifiable, private timestamps for privacy-preserving smart contracts (in progress).
 
 **BitBadges** - A multi-chain Layer-1 blockchain protocol that allows users to issue NFT badges to one another (in progress).
-<img src="./bbadgesbanner.PNG" height="200px">
+<img src="./bbadgesbanner.PNG">
+
 
 [**Blockin**](https://blockin.gitbook.io/blockin/) - A universal, multi-chain sign-in standard for Web 3.0
 
@@ -18,9 +19,11 @@ My Projects:
 
 [**Circle Game**](https://circlegame.io/) - An NFT social experiment game based on risk, scarcity, and game theory.
 
+
 ![Circle Game](./circle%20game%20banner.PNG)
 
 [**March Madness Market**](https://marchmadnessmarket.com) - Simulated web app game where users can buy NCAA March Madness teams like stocks and earn points for their performances
+
 
 <img src="./mmmbanner.PNG" width="100%">
 
