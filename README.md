@@ -4,7 +4,7 @@ My Projects:
 
 **Master's Thesis** - Researching supporting verifiable, private timestamps for privacy-preserving smart contracts.
 
-[**Blockin**](https://blockin.gitbook.io/blockin/) - A multi-chain sign-in standard for Web 3.0 
+[**Blockin**](https://blockin.gitbook.io/blockin/) - A universal, multi-chain sign-in standard for Web 3.0
 
 [**Circle Game**](https://circlegame.io/) - An NFT social experiment game based on risk, scarcity, and game theory.
 
