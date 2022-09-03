@@ -9,7 +9,7 @@ Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON
 
 **Master's Thesis** - Researching supporting verifiable, private timestamps for privacy-preserving smart contracts (in progress).
 
-**BitBadges** - A multi-chain Layer-1 blockchain protocol that allows users to issue NFT badges to one another (in progress).
+[**BitBadges**](https://github.com/BitBadges) - A multi-chain Layer-1 blockchain protocol that allows users to issue NFT badges to one another (in progress).
 <img src="./bbadgesbanner.PNG" />
 
 
