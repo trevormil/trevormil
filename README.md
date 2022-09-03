@@ -1,11 +1,16 @@
 ### Hi there 👋, I'm Trevor Miller
-#### Full-Stack and Blockchain Engineer | M.S. Computer Science VT '22 | Prev: Cvent
+#### Full-Stack and Blockchain Engineer | M.S. Computer Science - Virginia Tech '22 | Prev: Cvent
+
+Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON / JAVA
+- 🔭 I’m currently working on my Master's Thesis, Blockin, and BitBadges 
+- 🌱 I’m currently learning Cosmos SDK
 
 My Projects:
 
 **Master's Thesis** - Researching supporting verifiable, private timestamps for privacy-preserving smart contracts (in progress).
 
 **BitBadges** - A multi-chain Layer-1 blockchain protocol that allows users to issue NFT badges to one another (in progress).
+<img src="./bbadgesbanner.PNG" width="100%">
 
 [**Blockin**](https://blockin.gitbook.io/blockin/) - A universal, multi-chain sign-in standard for Web 3.0
 ![Blockin](https://3632080616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAwjdYgEsUkK9cCca5DiU%2Fuploads%2FXxqaHlGvi2zhdGAtH3JA%2Fimage.png?alt=media&token=50385e49-8590-411d-b6e4-299316f07a76)
@@ -22,10 +27,6 @@ My Projects:
 
 <!-- Dad Quickbooks -->
 
-Skills: JAVASCRIPT / PYTHON / SOLIDITY / JAVA / SQL / REACT / TYPESCRIPT / GO / RUST / SUBSTRATE / CIRCOM / ZKSNARKS / COSMOS SDK
-
-- 🔭 I’m currently working on my Master's Thesis, Blockin, and BitBadges 
-- 🌱 I’m currently learning Cosmos SDK
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=trevormil&show_icons=true)  
 
