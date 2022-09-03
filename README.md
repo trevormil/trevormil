@@ -2,22 +2,22 @@
 #### Software Engineer | B.S./M.S in CS VT'22 
 My Projects:
 
-**Master's Thesis** - Researching supporting verifiable, private timestamps for privacy-preserving smart contracts.
+**Master's Thesis** - Researching supporting verifiable, private timestamps for privacy-preserving smart contracts (in progress).
+
+**BitBadges** - A cross-chain Layer-1 blockchain protocol that allows users to issue NFT badges to one another (in progress).
 
 [**Blockin**](https://blockin.gitbook.io/blockin/) - A universal, multi-chain sign-in standard for Web 3.0
 ![Blockin](https://3632080616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAwjdYgEsUkK9cCca5DiU%2Fuploads%2FXxqaHlGvi2zhdGAtH3JA%2Fimage.png?alt=media&token=50385e49-8590-411d-b6e4-299316f07a76)
 
 [**Circle Game**](https://circlegame.io/) - An NFT social experiment game based on risk, scarcity, and game theory.
-
-**BitBadges 1.0** - A DeSo Protocol feature that allows users to issue non transferable NFT badges to one another (currently 250+ badges issued).
-
-**BitBadges 2.0** - A cross-chain Layer-1 blockchain protocol that allows users to issue NFT badges to one another (in progress).
+![Circle Game](./circle%20game%20banner.PNG)
 
 [**March Madness Market**](https://marchmadnessmarket.com) - Simulated web app game where users can buy NCAA March Madness teams like stocks and earn points for their performances
+<img src="./mmmbanner.PNG" width="100%">
 
 [**Developer Error Dashboard**](https://error-dashboard-webcat.web.app/) - Dashboard to analyze and display students' performance data on their coding projects.
 
-**Stock Pattern Analyzer** - Stock analyzing tool that first downloads daily stock data from Fidelity Trader Pro with AutoIt and then runs a Java data analysis script which outputs all results into Excel.
+<!-- **Stock Pattern Analyzer** - Stock analyzing tool that first downloads daily stock data from Fidelity Trader Pro with AutoIt and then runs a Java data analysis script which outputs all results into Excel. -->
 
 Skills: JAVASCRIPT / PYTHON / SOLIDITY / JAVA / SQL / REACT / TYPESCRIPT / GO / RUST / SUBSTRATE / CIRCOM / ZKSNARKS / COSMOS SDK
 
