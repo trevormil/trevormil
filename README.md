@@ -5,6 +5,7 @@ My Projects:
 **Master's Thesis** - Researching supporting verifiable, private timestamps for privacy-preserving smart contracts.
 
 [**Blockin**](https://blockin.gitbook.io/blockin/) - A universal, multi-chain sign-in standard for Web 3.0
+![Blockin](https://3632080616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAwjdYgEsUkK9cCca5DiU%2Fuploads%2FXxqaHlGvi2zhdGAtH3JA%2Fimage.png?alt=media&token=50385e49-8590-411d-b6e4-299316f07a76)
 
 [**Circle Game**](https://circlegame.io/) - An NFT social experiment game based on risk, scarcity, and game theory.
 
@@ -14,14 +15,14 @@ My Projects:
 
 [**March Madness Market**](https://marchmadnessmarket.com) - Simulated web app game where users can buy NCAA March Madness teams like stocks and earn points for their performances
 
-[**Developer Error Dashboard**](https://error-dashboard-webcat.web.app/) - Dashboard to analyze and display students' performance data on their coding projects. (
+[**Developer Error Dashboard**](https://error-dashboard-webcat.web.app/) - Dashboard to analyze and display students' performance data on their coding projects.
 
 **Stock Pattern Analyzer** - Stock analyzing tool that first downloads daily stock data from Fidelity Trader Pro with AutoIt and then runs a Java data analysis script which outputs all results into Excel.
 
 Skills: JAVASCRIPT / PYTHON / SOLIDITY / JAVA / SQL / REACT / TYPESCRIPT / GO / RUST / SUBSTRATE / CIRCOM / ZKSNARKS / COSMOS SDK
 
 - 🔭 I’m currently working on my Master's Thesis, Blockin, and BitBadges 
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Cosmos SDK
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=trevormil&show_icons=true)  
 
