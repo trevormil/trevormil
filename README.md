@@ -32,6 +32,13 @@ Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON
 
 [Scaling Blockchain-Based Tokens with Joint Cryptographic Accumulators](https://github.com/trevormil/demo-chain/blob/master/ACM_2022___Scaling_Blockchain_Based_Tokens_with_Joint_Cryptographic_Accumulators%20(1).pdf) - We propose a method of creating joint accumulators (Merkle trees) in a decentralized fashion which is secured by the same set of validating nodes as existing blockchains but outsources 99.99% of the storage and computational requirements to users in order to keep the blockchain operating in a lightweight manner.
 
+### **Other Projects:**
+
+[DeSo Sign Transaction API](https://github.com/trevormil/deso-sign-transaction-api) - Developer tool for the DeSo blockchain which enables manually signing a DeSo transaction without DeSo Identity
+
+[Stock Pattern Analyzer](https://github.com/trevormil/deso-sign-transaction-api) - Uses AutoIt to manually import daily stock data from Fidelity Active Trader Pro, analyzes it within Java, and then exports all patterns and alysis into an Excel Spreadsheet.
+
+[Student Coding Error Analysis Dashboard](https://github.com/trevormil/error-dashboard) - Undergraduate research project which takes data from WebCAT about student's errors in coding projects and displays it into a visual dashboard using HTML, JavaScript, Google Charts, and Bootstrap.
 
 
 <!-- [**Developer Error Dashboard**](https://error-dashboard-webcat.web.app/) - Dashboard to analyze and display students' performance data on their coding projects. -->
