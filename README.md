@@ -44,6 +44,7 @@ Test Case Analysis Dashboard - Built a tool for Cvent's internal QE portal websi
 
 ### **Other:**
 2021 - Ran a 70.3 Half Ironman Triathlon
+
 2022 - Ran 1000+ miles, including two marathons
 
 
