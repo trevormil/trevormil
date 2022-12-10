@@ -13,7 +13,7 @@ Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON
 <img src="./bbadgesbanner.PNG" />
 
 
-[**Blockin**](https://blockin.gitbook.io/blockin/) - A universal, multi-chain sign-in standard for Web 3.0
+[**Blockin**](https://blockin.gitbook.io/blockin/) - A universal, multi-chain sign-in standard for Web 3.0 (see [paper](https://eprint.iacr.org/2022/1646))
 
 ![Blockin](https://3632080616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAwjdYgEsUkK9cCca5DiU%2Fuploads%2FXxqaHlGvi2zhdGAtH3JA%2Fimage.png?alt=media&token=50385e49-8590-411d-b6e4-299316f07a76)
 
