@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Trevor Miller
+## Hi there 👋, I'm Trevor Miller (trevormil.eth)
 #### Full-Stack and Blockchain Engineer | B.S. / M.S. Computer Science - Virginia Tech '19-'22 (4.0 GPA) | Prev: Cvent
 
 Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON / JAVA
