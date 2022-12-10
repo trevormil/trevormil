@@ -26,7 +26,7 @@ Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON
 
 ### **My Papers:**
 
-[Privatizing the Timing and Volume of Transactions for Blockchain Applications (Master's Thesis)]() - TBD
+[Privatizing the Timing and Volume of Transactions for Blockchain Applications (Master's Thesis)]() - TBD (in progress)
 
 [Blockin Paper](https://eprint.iacr.org/2022/1646) - A universal, multi-chain sign-in standard for Web 3.0 (see [Blockin Library](https://blockin.gitbook.io/blockin/))
 
