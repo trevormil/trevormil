@@ -29,7 +29,7 @@ Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON
 
 [Blockin Paper](https://eprint.iacr.org/2022/1646) - A universal, multi-chain sign-in standard for Web 3.0 (see [Blockin Library](https://blockin.gitbook.io/blockin/))
 
-[Scaling Blockchain-Based Tokens with Joint Cryptographic Accumulators](https://github.com/trevormil/demo-chain/blob/master/ACM_2022___Scaling_Blockchain_Based_Tokens_with_Joint_Cryptographic_Accumulators%20(1).pdf) - We propose a method of creating joint accumulators (Merkle trees) in a decentralized fashion which is secured by the same set of validating nodes as existing blockchains but outsources 99.99% of the storage and computational requirements to users in order to keep the blockchain operating in a lightweight manner (see [implementation](https://github.com/trevormil/demo-chain)).
+[Scaling Blockchain-Based Tokens with Joint Cryptographic Accumulators](https://eprint.iacr.org/2022/1717) - We propose a method of creating joint accumulators (Merkle trees) in a decentralized fashion which is secured by the same set of validating nodes as existing blockchains but outsources 99.99% of the storage and computational requirements to users in order to keep the blockchain operating in a lightweight manner (see [implementation](https://github.com/trevormil/demo-chain)).
 
 ### **Other Projects:**
 
