@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Trevor Miller (trevormil.eth)
-#### Full-Stack and Blockchain Engineer | B.S. / M.S. Computer Science - Virginia Tech '19-'22 (4.0 GPA, #1 in Class) | Prev: Cvent
+#### Full-Stack and Blockchain Engineer | B.S. / M.S. Computer Science - Virginia Tech '19-'22 (4.0 GPA) | Prev: Cvent
 
 Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON / JAVA
 - 🔭 I’m currently working on my Master's Thesis, Blockin, and BitBadges 
@@ -41,7 +41,7 @@ Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON
 
 Test Case Analysis Dashboard - Built a tool for Cvent's internal QE portal website using Python, Flask, MySQL, Java Dropwizard, and React.js that 1) performs in depth analysis on any test case using its past execution data (runtime, success rate, etc), 2) recommends solutions for optimizations, and 3) displays all the data on a dashboard.
 
-### **Other:**
+<!-- ### **Other:**
 
 2022 - Ran 1000+ miles, including two marathons
 
@@ -49,7 +49,7 @@ Test Case Analysis Dashboard - Built a tool for Cvent's internal QE portal websi
 
 2020 - Set and achieved goal of reading one book per week (55 total)
 
-2019 - First Team All-Region for Varsity Soccer
+2019 - First Team All-Region for Varsity Soccer -->
 
 <!-- [**Developer Error Dashboard**](https://error-dashboard-webcat.web.app/) - Dashboard to analyze and display students' performance data on their coding projects. -->
 
