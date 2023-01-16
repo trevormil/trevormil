@@ -18,6 +18,7 @@ Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON
 
 ![Circle Game](./circle%20game%20banner.PNG)
 
+
 [**March Madness Market**](https://marchmadnessmarket.com) - Simulated market where users can buy NCAA March Madness teams like stocks and earn points when they win
 
 
