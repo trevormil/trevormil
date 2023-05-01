@@ -26,7 +26,7 @@ Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON
 
 ### **My Papers:**
 
-<!-- [Privatizing the Timing and Volume of Transactions for Blockchain Applications (Master's Thesis)]() - TBD (in progress) -->
+[VTBC: Privatizing the Timing and Volume of Transactions for Blockchain Applications](https://github.com/trevormil/privatizing-blockchain-timestamps) (Accepted to [ICCCN 2023](http://www.icccn.org/icccn23/index.html), Submitted as Master's Thesis) - We propose how to privatize the volume and timing of blockchain transactions for volume-sensitive or time-sensitive blockchain applications (e.g. student exam submissions or Dutch auction) in a manner that does not sacrifice the verifiability or integrity of the application. 
 
 [Blockin Paper](https://eprint.iacr.org/2022/1646) - A universal, multi-chain sign-in standard for Web 3.0 (see [Blockin Library](https://blockin.gitbook.io/blockin/))
 
