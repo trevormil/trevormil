@@ -31,26 +31,3 @@ Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON
 [Student Coding Error Analysis Dashboard](https://github.com/trevormil/error-dashboard) - Undergraduate research project which takes data from WebCAT about student's errors in coding projects and displays it into a visual dashboard using HTML, JavaScript, Google Charts, and Bootstrap.
 
 Test Case Analysis Dashboard - Built a tool for Cvent's internal QE portal website using Python, Flask, MySQL, Java Dropwizard, and React.js that 1) performs in depth analysis on any test case using its past execution data (runtime, success rate, etc), 2) recommends solutions for optimizations, and 3) displays all the data on a dashboard.
-
-<!-- ### **Other:**
-
-2022 - Ran 1000+ miles, including two marathons
-
-2021 - Ran a 70.3 Half Ironman Triathlon
-
-2020 - Set and achieved goal of reading one book per week (55 total)
-
-2019 - First Team All-Region for Varsity Soccer -->
-
-<!-- [**Developer Error Dashboard**](https://error-dashboard-webcat.web.app/) - Dashboard to analyze and display students' performance data on their coding projects. -->
-
-<!-- **Stock Pattern Analyzer** - Stock analyzing tool that first downloads daily stock data from Fidelity Trader Pro with AutoIt and then runs a Java data analysis script which outputs all results into Excel. -->
-
-<!-- Dad Quickbooks -->
-
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=trevormil&show_icons=true)   -->
-
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=trevormil)  -->
-
-![Profile views](https://gpvc.arturio.dev/trevormil)  
