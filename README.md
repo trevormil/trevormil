@@ -2,7 +2,7 @@
 #### Full-Stack and Blockchain Engineer | B.S. / M.S. Computer Science - Virginia Tech '19-'22 (4.0 GPA)
 
 Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON / JAVA
-- 🔭 I’m currently working on Blockin, and BitBadges 
+- 🔭 I’m currently working on BitBadges 
 
 ### **My Projects:**
 
