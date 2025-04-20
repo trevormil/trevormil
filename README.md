@@ -6,7 +6,7 @@ Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON
 
 ### **My Projects:**
 
-[**BitBadges**](https://github.com/BitBadges) - A multi-chain Layer-1 blockchain protocol that allows users to issue NFT badges to one another (in progress).
+[**BitBadges**](https://github.com/BitBadges) - A multi-chain Layer-1 blockchain protocol that allows users from any chaub to issue NFT badges to one another along with a whole suite of utility (multi-chain authentication, points, claims, connecting to 7000+ apps).
 
 [**Blockin**](https://blockin.gitbook.io/blockin/) - A universal, multi-chain sign-in standard for Web 3.0 (see [paper](https://eprint.iacr.org/2022/1646))
 
@@ -16,18 +16,8 @@ Skills: GO / TYPESCRIPT / REACT / SOLIDITY / RUST / CIRCOM / COSMOS SDK / PYTHON
 
 ### **My Papers:**
 
-[VTBC: Privatizing the Timing and Volume of Transactions for Blockchain Applications](https://github.com/trevormil/privatizing-blockchain-timestamps) (Accepted to [ICCCN 2023](http://www.icccn.org/icccn23/index.html), Submitted as Master's Thesis) - We propose how to privatize the volume and timing of blockchain transactions for volume-sensitive or time-sensitive blockchain applications (e.g. student exam submissions or Dutch auction) in a manner that does not sacrifice the verifiability or integrity of the application. 
+[VTBC: Privatizing the Timing and Volume of Transactions for Blockchain Applications](https://github.com/trevormil/privatizing-blockchain-timestamps) (Accepted to [ICCCN 2023](http://www.icccn.org/icccn23/index.html), Submitted as Master's Thesis)
 
-[Blockin Paper](https://eprint.iacr.org/2022/1646) - A universal, multi-chain sign-in standard for Web 3.0 (see [Blockin Library](https://blockin.gitbook.io/blockin/))
+[Blockin Paper](https://eprint.iacr.org/2022/1646)
 
-[Scaling Blockchain-Based Tokens with Joint Cryptographic Accumulators](https://eprint.iacr.org/2022/1717) - We propose a method of creating joint accumulators (Merkle trees) in a decentralized fashion which is secured by the same set of validating nodes as existing blockchains but outsources 99.99% of the storage and computational requirements to users in order to keep the blockchain operating in a lightweight manner (see [implementation](https://github.com/trevormil/demo-chain)).
-
-### **Other Projects:**
-
-[DeSo Sign Transaction API](https://github.com/trevormil/deso-sign-transaction-api) - Developer tool for the DeSo blockchain which enables manually signing a DeSo transaction without DeSo Identity
-
-[Stock Pattern Analyzer](https://github.com/trevormil/deso-sign-transaction-api) - Uses AutoIt to manually import daily stock data from Fidelity Active Trader Pro, analyzes it within Java, and then exports all patterns and alysis into an Excel Spreadsheet.
-
-[Student Coding Error Analysis Dashboard](https://github.com/trevormil/error-dashboard) - Undergraduate research project which takes data from WebCAT about student's errors in coding projects and displays it into a visual dashboard using HTML, JavaScript, Google Charts, and Bootstrap.
-
-Test Case Analysis Dashboard - Built a tool for Cvent's internal QE portal website using Python, Flask, MySQL, Java Dropwizard, and React.js that 1) performs in depth analysis on any test case using its past execution data (runtime, success rate, etc), 2) recommends solutions for optimizations, and 3) displays all the data on a dashboard.
+[Scaling Blockchain-Based Tokens with Joint Cryptographic Accumulators](https://eprint.iacr.org/2022/1717)
