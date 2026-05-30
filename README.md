@@ -54,27 +54,37 @@ A brand-new tokenization standard built as a **Cosmos SDK module** for **RWAs**,
 
 <table align="center">
 <tr>
-  <td align="center" width="220" valign="top">
+  <td align="center" width="200" valign="top">
     <a href="https://github.com/trevormil/bolt">
       <img src="https://raw.githubusercontent.com/trevormil/bolt/main/packages/web/landing/bolt.png" height="100" alt="Bolt"/>
     </a>
     <br/><br/>
     <strong>⚡ Bolt</strong><br/>
-    <sub>The agent with a wallet — local-first personal AI that holds its own USDC. Nothing hosted but the LLM.</sub>
+    <sub>The agent with a wallet — local-first personal AI that holds its own USDC.</sub>
     <br/><br/>
     <a href="https://github.com/trevormil/bolt"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
   </td>
-  <td align="center" width="220" valign="top">
+  <td align="center" width="200" valign="top">
     <a href="https://github.com/trevormil/beacon">
       <img src="https://raw.githubusercontent.com/trevormil/beacon/main/logo.png" height="100" alt="Beacon"/>
     </a>
     <br/><br/>
     <strong>📡 Beacon</strong><br/>
-    <sub>Embeddable feedback widget that pipelines user feedback straight into tickets &amp; MRs.</sub>
+    <sub>Embeddable feedback widget that pipelines user feedback into tickets &amp; MRs.</sub>
     <br/><br/>
     <a href="https://github.com/trevormil/beacon"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
   </td>
-  <td align="center" width="220" valign="top">
+  <td align="center" width="200" valign="top">
+    <a href="https://github.com/trevormil/TerMinal">
+      <img src="https://raw.githubusercontent.com/trevormil/TerMinal/main/landing/logo.png" height="100" alt="TerMinal"/>
+    </a>
+    <br/><br/>
+    <strong>💻 TerMinal</strong><br/>
+    <sub>Standalone local-first software factory for coding agents — Claude Code &amp; Codex with a live cockpit.</sub>
+    <br/><br/>
+    <a href="https://github.com/trevormil/TerMinal"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  </td>
+  <td align="center" width="200" valign="top">
     <a href="https://marchmadnessmarket.com">
       <img src="https://raw.githubusercontent.com/trevormil/marchmadnessmarket-frontend/master/public/mmm-logo-cropped.jpg" height="100" alt="March Madness Market"/>
     </a>
