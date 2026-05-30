@@ -7,22 +7,23 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=trevormil&style=for-the-badge&color=blueviolet)
 
-**B.S. / M.S. Computer Science - Virginia Tech '19-'22 | 4.0 GPA**
+**B.S. / M.S. Computer Science — Virginia Tech '19–'22 · 4.0 GPA**
 
 </div>
 
 ---
 
-<!-- BitBadges Hero Section -->
+<!-- ───────────────────────────  BitBadges (Hero)  ─────────────────────────── -->
+
 <div align="center">
 
 <a href="https://bitbadges.io">
-  <img src="https://avatars.githubusercontent.com/u/86890740?s=200&v=4" width="120" alt="BitBadges Logo"/>
+  <img src="https://avatars.githubusercontent.com/u/86890740?s=200&v=4" width="150" alt="BitBadges Logo"/>
 </a>
 
-## 🚀 Building [BitBadges](https://bitbadges.io)
+# 🚀 BitBadges
 
-**The Next-Generation Token Standard**
+### The Next-Generation Token Standard
 
 <br/>
 
@@ -36,22 +37,68 @@
 
 <div align="center">
 
-A brand new tokenization standard built as a **Cosmos SDK module**, designed for **RWAs**, **compliance**, **payments**, and **custom transferability**—all with **no code or smart contracts required**.
+A brand-new tokenization standard built as a **Cosmos SDK module** for **RWAs**, **compliance**, **payments**, and **custom transferability** — with **no smart contracts required**.
 
-</div>
-
-<br/>
-
-<div align="center">
-
-🔹 **Native compliance checks** on every transfer (IBC, liquidity pools)
+🔹 **Native compliance checks** on every transfer · IBC · liquidity pools
 🔹 **Time-dependent ownership** & fine-grained transferability controls
-🔹 **IBC compatible** with connections to **EVM**, **CosmWasm**, and **7000+ apps**
+🔹 **IBC-compatible** — connects to **EVM**, **CosmWasm**, and **7,000+ apps**
 🔹 Goes far beyond ERC-20, ERC-721, and existing standards
 
 </div>
 
 ---
+
+<!-- ───────────────────────────  Other Featured Projects  ─────────────────────────── -->
+
+## 🛠️ Other Projects
+
+<table align="center">
+<tr>
+  <td align="center" width="220" valign="top">
+    <a href="https://github.com/trevormil/bolt">
+      <img src="https://raw.githubusercontent.com/trevormil/bolt/main/packages/web/landing/bolt.png" height="100" alt="Bolt"/>
+    </a>
+    <br/><br/>
+    <strong>⚡ Bolt</strong><br/>
+    <sub>The agent with a wallet — local-first personal AI that holds its own USDC. Nothing hosted but the LLM.</sub>
+    <br/><br/>
+    <a href="https://github.com/trevormil/bolt"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  </td>
+  <td align="center" width="220" valign="top">
+    <a href="https://github.com/trevormil/beacon">
+      <img src="https://raw.githubusercontent.com/trevormil/beacon/main/logo.png" height="100" alt="Beacon"/>
+    </a>
+    <br/><br/>
+    <strong>📡 Beacon</strong><br/>
+    <sub>Embeddable feedback widget that pipelines user feedback straight into tickets &amp; MRs.</sub>
+    <br/><br/>
+    <a href="https://github.com/trevormil/beacon"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  </td>
+  <td align="center" width="220" valign="top">
+    <a href="https://marchmadnessmarket.com">
+      <img src="https://raw.githubusercontent.com/trevormil/marchmadnessmarket-frontend/master/public/mmm-logo-cropped.jpg" height="100" alt="March Madness Market"/>
+    </a>
+    <br/><br/>
+    <strong>🏀 March Madness Market</strong><br/>
+    <sub>Buy NCAA Tournament teams like stocks. Earn points when they win.</sub>
+    <br/><br/>
+    <a href="https://marchmadnessmarket.com"><img src="https://img.shields.io/badge/Live-22C55E?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+    <a href="https://github.com/trevormil/marchmadnessmarket-frontend"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  </td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+**Also** &nbsp;·&nbsp; 🔐 [Blockin](https://blockin.gitbook.io/blockin/) — universal multi-chain sign-in for Web 3.0 &nbsp;·&nbsp; 🎮 [Circle Game](https://github.com/trevormil/circlegame) — NFT social experiment & game theory
+
+</div>
+
+---
+
+<!-- ───────────────────────────  Tech Stack  ─────────────────────────── -->
 
 ## ⚡ Tech Stack
 
@@ -67,24 +114,15 @@ A brand new tokenization standard built as a **Cosmos SDK module**, designed for
 ![Cosmos SDK](https://img.shields.io/badge/Cosmos_SDK-2E3148?style=for-the-badge&logo=cosmos&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Circom](https://img.shields.io/badge/Circom-7B3FE4?style=for-the-badge&logo=ethereum&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Other Projects
-
-<div align="center">
-
-| Project | Links |
-|:--|:--:|
-| **🔐 Blockin** - Universal multi-chain sign-in for Web 3.0 | [![Docs](https://img.shields.io/badge/Docs-GitBook-3884FF?style=flat-square&logo=gitbook&logoColor=white)](https://blockin.gitbook.io/blockin/) [![Paper](https://img.shields.io/badge/Paper-IACR-orange?style=flat-square)](https://eprint.iacr.org/2022/1646) |
-| **🏀 March Madness Market** - Buy NCAA teams like stocks | [![Live](https://img.shields.io/badge/Play-marchmadnessmarket.com-22C55E?style=flat-square&logo=googlechrome&logoColor=white)](https://marchmadnessmarket.com) |
-| **🎮 Circle Game** - NFT social experiment & game theory | [![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/trevormil/circlegame) |
-
-</div>
-
----
+<!-- ───────────────────────────  Research  ─────────────────────────── -->
 
 ## 📄 Research & Publications
 
@@ -100,6 +138,8 @@ A brand new tokenization standard built as a **Cosmos SDK module**, designed for
 
 ---
 
+<!-- ───────────────────────────  GitHub Stats  ─────────────────────────── -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -107,5 +147,14 @@ A brand new tokenization standard built as a **Cosmos SDK module**, designed for
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trevormil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=trevormil&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trevormil&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7" width="95%" />
+
 </div>
 
+---
+
+<div align="center">
+  <sub>🌐 <a href="https://bitbadges.io">bitbadges.io</a> · Building something new every week.</sub>
+</div>
