@@ -37,6 +37,6 @@ Go · TypeScript · React · Rust · Solidity · Python · Cosmos SDK · Ethereu
 
 ---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=trevormil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub stats" />
+<a href="https://github.com/trevormil"><img src="https://ghchart.rshah.org/A855F7/trevormil" width="100%" alt="Contribution graph" /></a>
 
 <sub>Building something new every week.</sub>
