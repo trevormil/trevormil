@@ -1,62 +1,69 @@
 <div align="center">
 
-<!-- Animated Header -->
+<!-- ───────────────────────────  Header  ─────────────────────────── -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Trevor+Miller+%F0%9F%91%8B;Full-Stack+%26+Blockchain+Engineer;Building+the+Next-Gen+Token+Standard)](https://git.io/typing-svg)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=trevormil&style=for-the-badge&color=blueviolet)
-
 **B.S. / M.S. Computer Science — Virginia Tech '19–'22 · 4.0 GPA**
+
+![Profile Views](https://komarev.com/ghpvc/?username=trevormil&style=flat-square&color=blueviolet)
 
 </div>
 
 ---
 
-<!-- ───────────────────────────  BitBadges (Hero)  ─────────────────────────── -->
+<!-- ───────────────────────────  BitBadges  ─────────────────────────── -->
 
 <div align="center">
 
 <a href="https://bitbadges.io">
-  <img src="https://avatars.githubusercontent.com/u/86890740?s=200&v=4" width="150" alt="BitBadges Logo"/>
+  <img src="https://avatars.githubusercontent.com/u/86890740?s=200&v=4" width="110" alt="BitBadges Logo"/>
 </a>
 
-# 🚀 BitBadges
+## BitBadges — The Next-Generation Token Standard
 
-### The Next-Generation Token Standard
+**A brand-new tokenization standard built as a Cosmos SDK module — no smart contracts required.**
 
-<br/>
+Native compliance checks on every transfer · time-dependent ownership & fine-grained transferability ·
+IBC-compatible with EVM, CosmWasm & 7,000+ apps · built for RWAs, compliance, payments & beyond ERC-20/721.
 
-[![Website](https://img.shields.io/badge/🌐_Website-bitbadges.io-A855F7?style=for-the-badge)](https://bitbadges.io)
-[![Docs](https://img.shields.io/badge/📚_Docs-docs.bitbadges.io-7C3AED?style=for-the-badge)](https://docs.bitbadges.io)
-[![GitHub](https://img.shields.io/badge/GitHub-BitBadges-181717?style=for-the-badge&logo=github)](https://github.com/BitBadges)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-A brand-new tokenization standard built as a **Cosmos SDK module** for **RWAs**, **compliance**, **payments**, and **custom transferability** — with **no smart contracts required**.
-
-🔹 **Native compliance checks** on every transfer · IBC · liquidity pools
-🔹 **Time-dependent ownership** & fine-grained transferability controls
-🔹 **IBC-compatible** — connects to **EVM**, **CosmWasm**, and **7,000+ apps**
-🔹 Goes far beyond ERC-20, ERC-721, and existing standards
+[![Website](https://img.shields.io/badge/🌐_bitbadges.io-A855F7?style=for-the-badge)](https://bitbadges.io)
+[![Docs](https://img.shields.io/badge/📚_Docs-7C3AED?style=for-the-badge)](https://docs.bitbadges.io)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BitBadges)
 
 </div>
 
 ---
 
-<!-- ───────────────────────────  Other Featured Projects  ─────────────────────────── -->
+<!-- ───────────────────────────  Featured Apps  ─────────────────────────── -->
 
-## 🛠️ Other Projects
+## 🚀 Featured Apps
 
 <table align="center">
 <tr>
-  <td align="center" width="200" valign="top">
+  <td align="center" width="250" valign="top">
+    <a href="https://aix.trevormil.com">
+      <img src="https://aix.trevormil.com/icon.svg" height="90" alt="AIx"/>
+    </a>
+    <br/><br/>
+    <strong>🔎 AIx</strong><br/>
+    <sub>Is this AI tool actually worth it? A harshly-honest directory of trending AI tools — with the takes of the engineers who run them.</sub>
+    <br/><br/>
+    <a href="https://aix.trevormil.com"><img src="https://img.shields.io/badge/Live-22C55E?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  </td>
+  <td align="center" width="250" valign="top">
+    <a href="https://mybestie.io">
+      <img src="https://mybestie.io/icon-180.png" height="90" alt="Bestie"/>
+    </a>
+    <br/><br/>
+    <strong>💄 Bestie</strong><br/>
+    <sub>Beauty, decoded. Scan any beauty product and get an instant safety score grounded in ingredient evidence.</sub>
+    <br/><br/>
+    <a href="https://mybestie.io"><img src="https://img.shields.io/badge/Live-22C55E?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  </td>
+  <td align="center" width="250" valign="top">
     <a href="https://github.com/trevormil/bolt">
-      <img src="https://raw.githubusercontent.com/trevormil/bolt/main/packages/web/landing/bolt.png" height="100" alt="Bolt"/>
+      <img src="https://raw.githubusercontent.com/trevormil/bolt/main/packages/web/landing/bolt.png" height="90" alt="Bolt"/>
     </a>
     <br/><br/>
     <strong>⚡ Bolt</strong><br/>
@@ -64,19 +71,11 @@ A brand-new tokenization standard built as a **Cosmos SDK module** for **RWAs**,
     <br/><br/>
     <a href="https://github.com/trevormil/bolt"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
   </td>
-  <td align="center" width="200" valign="top">
-    <a href="https://github.com/trevormil/beacon">
-      <img src="https://raw.githubusercontent.com/trevormil/beacon/main/logo.png" height="100" alt="Beacon"/>
-    </a>
-    <br/><br/>
-    <strong>📡 Beacon</strong><br/>
-    <sub>Embeddable feedback widget that pipelines user feedback into tickets &amp; MRs.</sub>
-    <br/><br/>
-    <a href="https://github.com/trevormil/beacon"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  </td>
-  <td align="center" width="200" valign="top">
+</tr>
+<tr>
+  <td align="center" width="250" valign="top">
     <a href="https://github.com/trevormil/TerMinal">
-      <img src="https://raw.githubusercontent.com/trevormil/TerMinal/main/landing/logo.png" height="100" alt="TerMinal"/>
+      <img src="https://raw.githubusercontent.com/trevormil/TerMinal/main/landing/logo.png" height="90" alt="TerMinal"/>
     </a>
     <br/><br/>
     <strong>💻 TerMinal</strong><br/>
@@ -84,9 +83,19 @@ A brand-new tokenization standard built as a **Cosmos SDK module** for **RWAs**,
     <br/><br/>
     <a href="https://github.com/trevormil/TerMinal"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
   </td>
-  <td align="center" width="200" valign="top">
+  <td align="center" width="250" valign="top">
+    <a href="https://github.com/trevormil/beacon">
+      <img src="https://raw.githubusercontent.com/trevormil/beacon/main/logo.png" height="90" alt="Beacon"/>
+    </a>
+    <br/><br/>
+    <strong>📡 Beacon</strong><br/>
+    <sub>Embeddable feedback widget that pipelines user feedback into tickets &amp; MRs.</sub>
+    <br/><br/>
+    <a href="https://github.com/trevormil/beacon"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  </td>
+  <td align="center" width="250" valign="top">
     <a href="https://marchmadnessmarket.com">
-      <img src="https://raw.githubusercontent.com/trevormil/marchmadnessmarket-frontend/master/public/mmm-logo-cropped.jpg" height="100" alt="March Madness Market"/>
+      <img src="https://raw.githubusercontent.com/trevormil/marchmadnessmarket-frontend/master/public/mmm-logo-cropped.jpg" height="90" alt="March Madness Market"/>
     </a>
     <br/><br/>
     <strong>🏀 March Madness Market</strong><br/>
@@ -97,8 +106,6 @@ A brand-new tokenization standard built as a **Cosmos SDK module** for **RWAs**,
   </td>
 </tr>
 </table>
-
-<br/>
 
 <div align="center">
 
